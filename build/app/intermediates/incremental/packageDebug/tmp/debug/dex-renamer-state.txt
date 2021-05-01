@@ -1,0 +1,4 @@
+#Fri Apr 30 21:03:13 COT 2021
+base.0=D\:\\UCH\\IX\\PROGRAMACION MOVIL\\Semana 07\\Practica_VelardeRiosGary\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
